@@ -18,6 +18,7 @@
     "coverage": "nyc report --reporter=text-lcov | codecov",
     "prebuild": "rimraf lib && eslint src",
     "pretest": "npm run build",
+    "postinstall": "npm run build",
     "test": "nyc ava"
   },
   "files": [
