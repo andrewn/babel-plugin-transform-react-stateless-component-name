@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transform-react-stateless-component-name",
+  "name": "@andrewn/babel-plugin-transform-react-stateless-component-name",
   "version": "1.0.0",
   "description": "A babel plugin to add name for default exported stateless components.",
   "license": "MIT",
